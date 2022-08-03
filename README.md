@@ -1,6 +1,6 @@
 # TOOLMANIA client site
 
-## LIVESITE: [TOOLMINE](https://toolmania-12345a.web.app/)
+## LIVESITE: [TOOLMANIA](https://toolmania-12345a.web.app/)
 
 ## Description:
 
