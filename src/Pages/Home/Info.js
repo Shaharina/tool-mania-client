@@ -1,14 +1,12 @@
 import React from 'react';
-import Banner from './banner';
 import Infocard from './Infocard';
 
-const Home = () => {
+const Info = () => {
     return (
         <div>
-            <Banner></Banner>
             <Infocard></Infocard>
         </div>
     );
 };
 
-export default Home;
+export default Info;
