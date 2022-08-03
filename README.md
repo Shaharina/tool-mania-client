@@ -1,6 +1,6 @@
-# TOOLMINE client site
+# TOOLMANIA client site
 
-## LIVESITE: [TOOLMINE](https://toolmania-12345.web.app/)
+## LIVESITE: [TOOLMINE](https://toolmania-12345a.web.app/)
 
 ## Description:
 
@@ -11,7 +11,7 @@ It is a Hand tools manufacturer website. it's can use user and admin both person
 -   user can order some product
 -   user can update his/her profile and update it
 -   user can add review to this company
--   He/she can payment this product buy any card affter payment success user get transaction id
+-   He/she can payment this product buy any card after payment success user get transaction id
 -   user can remove any unpaid product , after payment success user can't remove this product
 
 ### Admin:

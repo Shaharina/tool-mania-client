@@ -42,7 +42,7 @@ const Navbar = () => {
                 </div>
                 <a class='btn btn-ghost normal-case text-xl'>
                     {' '}
-                    TOOL<span> MANIA</span>
+                    TOOL<span className='text-primary'> MANIA</span>
                 </a>
             </div>
             <div class='navbar-center hidden lg:flex'>
