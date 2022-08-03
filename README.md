@@ -20,7 +20,7 @@ It is a Hand tools manufacturer website. it's can use user and admin both person
 -   admin also update his/her profile
 -   admin manage all products , can delete product
 -   admin can see user order with paid or unpaid , after payment success admin see pending product he/she can shipped this product.
--   admin see all login user he/she can make any user to
+-   admin see all login user he/she can make any user to admin.
 
 ## Use Items
 
