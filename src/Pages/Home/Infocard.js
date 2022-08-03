@@ -1,17 +1,15 @@
 import React from 'react';
 
-const Infocard = () => {
+const Infocard = ({ img }) => {
     return (
         <div class='card lg:card-side bg-base-100 shadow-xl'>
             <figure>
-                <img src='https://placeimg.com/400/400/arch' alt='Album' />
+                <img src={img} alt='Album' />
             </figure>
-            <div class='card-body'>
+            <div class='card-body text-white'>
                 <h2 class='card-title'>New album is released!</h2>
                 <p>Click the button to listen on Spotiwhy app.</p>
-                <div class='card-actions justify-end'>
-                    <button class='btn btn-primary'>Listen</button>
-                </div>
+                <div class='card-actions justify-end'></div>
             </div>
         </div>
     );
